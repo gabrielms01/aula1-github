@@ -18,6 +18,7 @@ public class TesteGit {
         // TODO code application logic here
         
         System.out.println("Bom dia!");
+        System.out.println("Boa tarde!");
     }
     
 }
